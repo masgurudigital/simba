@@ -1285,17 +1285,20 @@
   <nav_data>
     <outline>
       <links>
+        <slidelink slideid="_player.5lK1xXohwTn" displaytext="cover" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5lK1xXohwTn.5rJwVVPRyWc" displaytext="cover" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.6gHvawskudP" displaytext="home page" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6gHvawskudP.5xX433hnW7x" displaytext="home page" expand="false" type="slide" />
-            <slidelink slideid="_player.6gHvawskudP.5taR5jsZBoc" displaytext="intro" expand="false" type="slide" />
             <slidelink slideid="_player.6gHvawskudP.6CPbYAMPqTv" displaytext="author" expand="false" type="slide" />
             <slidelink slideid="_player.6gHvawskudP.6L9ZecMiPMp" displaytext="author" expand="false" type="slide" />
             <slidelink slideid="_player.6gHvawskudP.63KxgOJUAUP" displaytext="author" expand="false" type="slide" />
             <slidelink slideid="_player.6gHvawskudP.5nH79O2piG9" displaytext="author" expand="false" type="slide" />
             <slidelink slideid="_player.6gHvawskudP.5lCSMJlYKGI" displaytext="author" expand="false" type="slide" />
             <slidelink slideid="_player.6gHvawskudP.5wTYq1Hdkwv" displaytext="author" expand="false" type="slide" />
-            <slidelink slideid="_player.6gHvawskudP.5Xv6vjMefa2" displaytext="author" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6iNR5pldHij" displaytext="main menu" expand="true" type="slide">
